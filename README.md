@@ -1,3 +1,3 @@
 # git-demo
-This is my first git repository.
-Author - Ganesh Patil
+This is my first git repository.<br>
+Author-Ganesh Patil
